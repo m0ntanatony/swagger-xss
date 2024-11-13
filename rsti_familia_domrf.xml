@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<external_id>333</external_id>
+		<name>ЖК FAMILIA</name>
+		<latitude>59.960514</latitude>
+		<longitude>30.261099</longitude>
+		<address>г. Санкт-Петербург, Петровский проспект, дом 22, корпус 2</address>
+		<images>
+			<image type="album-cover">https://rsti.ru/ftp/img/familia/1111.jpg</image>
+		</images>
+		<objects>
+			<object>
+				<external_id>21361</external_id>
+				<name/>
+				<address>г. Санкт-Петербург, Петровский проспект, дом 22, корпус 2</address>
+				<images>
+					<image type="album-cover">https://rsti.ru/ftp/img/familia/1111.jpg</image>
+				</images>
+				<flats>
+					<flat>
+						<entrance>С1.2</entrance>
+						<floor>7</floor>
+						<status>free</status>
+						<living>true</living>
+						<number>047</number>
+						<is_studio>false</is_studio>
+						<free_layout>false</free_layout>
+						<living_area>55.42</living_area>
+						<price>45114570</price>
+						<price_per_square_meter>384280</price_per_square_meter>
+						<room_areas>
+							<room_area>15.16</room_area>
+							<room_area>21.37</room_area>
+							<room_area>18.89</room_area>
+						</room_areas>
+						<kitchen_area>27.77</kitchen_area>
+						<separate_bathrooms>1</separate_bathrooms>
+						<united_bathrooms>1</united_bathrooms>
+						<loggias>2</loggias>
+						<balconies>0</balconies>
+						<state>none</state>
+						<window_to_street>unknown</window_to_street>
+						<window_to_courtyard>unknown</window_to_courtyard>
+						<sunny_side>unknown</sunny_side>
+						<social_mortgage>false</social_mortgage>
+						<images>
+							<image type="layout">https://storage.yandexcloud.net/rsti-media/pp/p/p/071c1d783873fef3db4162eba0f6de16ceb5c0cd.png</image>
+						</images>
+					</flat>
+				</flats>
+			</object>
+			<object>
+				<external_id>21362</external_id>
+				<name/>
+				<address>г. Санкт-Петербург, Петровский проспект, дом 22, корпус 2</address>
+				<images>
+					<image type="album-cover">https://rsti.ru/ftp/img/familia/1111.jpg</image>
+				</images>
+			</object>
+			<object>
+				<external_id>21363</external_id>
+				<name/>
+				<address>г. Санкт-Петербург, Петровский проспект, дом 22, корпус 2</address>
+				<images>
+					<image type="album-cover">https://rsti.ru/ftp/img/familia/1111.jpg</image>
+				</images>
+				<flats>
+					<flat>
+						<entrance/>
+						<floor>2</floor>
+						<status>free</status>
+						<living>true</living>
+						<number>001</number>
+						<is_studio>false</is_studio>
+						<free_layout>false</free_layout>
+						<living_area>66.29</living_area>
+						<price>44947145</price>
+						<price_per_square_meter>353080</price_per_square_meter>
+						<room_areas>
+							<room_area>25.50</room_area>
+							<room_area>21.49</room_area>
+							<room_area>19.30</room_area>
+						</room_areas>
+						<kitchen_area>28.10</kitchen_area>
+						<separate_bathrooms>1</separate_bathrooms>
+						<united_bathrooms>1</united_bathrooms>
+						<loggias>1</loggias>
+						<balconies>0</balconies>
+						<state>none</state>
+						<window_to_street>unknown</window_to_street>
+						<window_to_courtyard>unknown</window_to_courtyard>
+						<sunny_side>unknown</sunny_side>
+						<social_mortgage>false</social_mortgage>
+						<images>
+							<image type="layout">https://storage.yandexcloud.net/rsti-media/pp/p/p/56241e045b0219c5376979bcc7745422a73e0299.png</image>
+						</images>
+					</flat>
+				</flats>
+			</object>
+		</objects>
+	</complex>
+</complexes>
